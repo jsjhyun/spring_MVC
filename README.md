@@ -1,1 +1,1 @@
-# MVC1
+# 김영한 Spring MVC
